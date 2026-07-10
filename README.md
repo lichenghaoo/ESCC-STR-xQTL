@@ -2,15 +2,11 @@
 
 Figure reproduction code for the multi-omics STR-xQTL study of esophageal squamous cell carcinoma.
 
-This repository accompanies the manuscript:
-
-> Multi-omics analysis of short tandem repeat variation identifies candidate causal risk loci in esophageal squamous cell carcinoma
 
 ## Scope
 
 This repository contains custom R scripts for reproducing manuscript figures from processed analysis outputs. It is intended to support code review and figure reproduction for the manuscript.
 
-This repository is not a standalone software package and is not a complete end-to-end pipeline for raw WGS, WGBS or RNA-seq processing from FASTQ files.
 
 ## Repository contents
 
