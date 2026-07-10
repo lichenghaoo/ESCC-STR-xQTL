@@ -80,15 +80,6 @@ cd ESCC-STR-xQTL
 
 Install the R package dependencies listed above.
 
-## Data availability
-
-Processed STR-xQTL association results can be queried and downloaded through the ESCC STR-xQTL Atlas:
-
-https://app.su-lab.org/STR-xQTLdb/
-
-Raw WGS, WGBS and RNA-seq data analyzed in this study, from the previously established ESCC multi-omics cohort, have been deposited in the Genome Sequence Archive (GSA) under BioProject accession number PRJCA004501.
-
-Processed ChIP-seq peak data were obtained from ReMap. ESCC GWAS summary statistics were obtained from the GWAS Catalog under accession numbers GCST90271955, GCST90271956 and GCST90018621.
 
 ## Usage
 
