@@ -129,11 +129,6 @@ The R script is organized by manuscript figure sections. To reproduce a specific
 
 The code uses processed outputs generated from the multi-omics STR-xQTL analyses described in the manuscript. It does not rerun STR genotyping, raw sequencing alignment, molecular phenotype quantification, STR-xQTL mapping, fine-mapping or colocalization from raw sequencing files.
 
-## Software and analysis tools used in the manuscript
-
-The full manuscript analyses used established public tools, including ExpansionHunter v5.0.0, GangSTR v2.5.0, TRTools v6.0.2, EnsembleTR v1.0.0, STAR v2.7.11, RSEM v1.3.1, LeafCutter v0.2.9, DaPars v2.1, Bismark v0.10.1, LDAK v6.1, ChIPseeker v1.24.0, bedtools v2.31.1, bmediatR v0.1.3, susieR v0.12.35, coloc v5.2.3, IGV v2.18.0 and Cytoscape v3.10.4.
-
-The present repository focuses on custom R scripts for figure reproduction from processed analysis outputs.
 
 ## License
 
