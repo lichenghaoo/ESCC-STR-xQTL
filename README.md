@@ -127,8 +127,6 @@ outputs/
 
 The R script is organized by manuscript figure sections. To reproduce a specific figure panel, locate the corresponding section in `ESCC-STR-xQTL_code.R`, ensure that the required processed CSV input files are available, and run the relevant code block.
 
-The code uses processed outputs generated from the multi-omics STR-xQTL analyses described in the manuscript. It does not rerun STR genotyping, raw sequencing alignment, molecular phenotype quantification, STR-xQTL mapping, fine-mapping or colocalization from raw sequencing files.
-
 
 ## License
 
