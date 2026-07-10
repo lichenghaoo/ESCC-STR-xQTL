@@ -36,10 +36,6 @@ Operating system: Windows
 R version: 4.2.1
 ```
 
-No non-standard hardware is required for running the figure reproduction scripts on processed data. A standard desktop or laptop computer is sufficient for the plotting scripts.
-
-Full raw sequencing data processing is outside the scope of this repository and may require a high-performance computing environment.
-
 ## R package dependencies
 
 The script uses the following R packages:
